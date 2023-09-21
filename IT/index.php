@@ -51,7 +51,7 @@
 
                     
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <a href="tkinter/index.php">
+                    <a href="python/index.php">
                         <div class="classes-item">
                             <div class="bg-bblack rounded-circle w-75 mx-auto p-3">
                                 <img class="img-fluid rounded-circle" src="python/img/pyicon.jpg" alt="">
