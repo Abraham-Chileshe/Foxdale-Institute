@@ -145,32 +145,32 @@
                 <p>Copy and paste it in the IDE on your left/below you.
                 <hr/><br />
                 
-                <pre>
-                  <code class="language-python">
-                  import turtle
-                  import random
+<pre>
+<code class="language-python">
+import turtle
+import random
 
-                  x = 1
-                  SN = turtle.Screen()
-                  a = turtle.Turtle()
-                  a.speed(100)
+x = 1
+SN = turtle.Screen()
+a = turtle.Turtle()
+a.speed(100)
 
-                  i = 0
-                  while x &lt; 256:
-                  r = random.randint(0,255)
-                  g = 100
-                  b = 150
+i = 0
+while x &lt; 256:
+  r = random.randint(0,255)
+  g = 100
+  b = 150
 
-                  a.pencolor(i,g,b)
-                  if x &lt;252:
-                  a.pensize(1)
-                  a.forward(50 + x)
-                  a.right(91.5)
+  a.pencolor(i,g,b)
+  if x &lt;252:
+    a.pensize(1)
+    a.forward(50 + x)
+    a.right(91.5)
 
-                  x = x +1
-                  i = (i+1)%255
+    x = x +1
+    i = (i+1)%255
 
-                  turtle.done()
+turtle.done()
 
                   </code>
                 </pre>
