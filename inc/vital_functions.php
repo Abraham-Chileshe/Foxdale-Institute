@@ -28,11 +28,11 @@ function headloc($dots){ ?>
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="<?php echo $dots;?>css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo $dots;?>css/dracula.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
     <link href="<?php echo $dots;?>css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
     <?php  } 
     
 ##########################################################################################
