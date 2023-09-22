@@ -55,7 +55,43 @@ myvar2 = &quot;John&quot;
 my-var = &quot;John&quot;
 my var = &quot;John&quot   
 </code>
-</pre>
+</pre><br/>
+
+                <h3 class="text-primary">Many Values to Multiple Variables</h3>
+                <p>Python allows you to assign values to multiple variables in one line.  Make sure the number of variables matches the number of values, or else you will get an error.</p>
+<pre>
+<code class="language-python">  
+x, y, z = &quot;Orange&quot;, &quot;Banana&quot;, &quot;Cherry&quot;
+print(x)
+print(y)
+print(z)
+</code>
+</pre><br/>
+
+                <h3 class="text-primary">One Value to Multiple Variables</h3>
+                <p>And you can assign the same value to multiple variables in one line:</p>
+<pre>
+<code class="language-python">  
+x = y = z = &quot;Orange&quot;
+print(x)
+print(y)
+print(z)
+</code>
+</pre><br/>
+
+                <h3 class="text-primary">Outputing Variables</h3>
+                <p>The Python <code>print()</code> function is often used to output variables. Just place the variable name in between the parentheses and it will be printed to the console you can copy and try the example code below.</p>
+<pre>
+<code class="language-python">  
+x = "Python is awesome"
+print(x)
+print(5+20)
+</code>
+</pre><br/>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cQT33yu9pY8?si=nPcS6LwVt9yIAZSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
             </div>
         </div>
 
