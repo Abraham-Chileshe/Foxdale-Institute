@@ -146,7 +146,9 @@ function headloc($dots){ ?>
           <!-- Navbar Start -->
         <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="m-0 text-primary"><i class="fa fa-book-reader me-3"></i>ABCoding</h1>
+              
+                    <img src="<?php echo $dot;?>img/logo.png"  style="width:80px; max-width:80%">
+                   
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
