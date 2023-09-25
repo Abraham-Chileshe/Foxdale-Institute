@@ -34,7 +34,7 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-10 col-lg-8">
-                                    <h1 class="display-2 text-white animated slideInDown mb-4">Private Coding Lessons</h1>
+                                    <h1 class="display-2 text-white animated slideInDown mb-4">Coding/IT Lessons</h1>
                                     <p class="fs-5 fw-medium text-white mb-4 pb-2">Online one on one coding lessons with a private tutor for children 9+ years old</p>
                                     <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5 me-3 animated slideInLeft">login</a>
                                     <a href="" class="btn btn-dark rounded-pill py-sm-3 px-sm-5 animated slideInRight">Sign up</a>
@@ -44,13 +44,13 @@
                     </div>
                 </div>
                 <div class="owl-carousel-item position-relative">
-                    <img class="img-fluid" src="img/carousel-1.jpg" alt="">
+                    <img class="img-fluid" src="img/carousel-3.jpg" alt="">
                     <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(0, 0, 0, .2);">
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-10 col-lg-8">
-                                    <h1 class="display-2 text-white animated slideInDown mb-4">Let's Code</h1>
-                                    <p class="fs-5 fw-medium text-white mb-4 pb-2">I teach a variety of programming languages like Python, web developement with html css and javascript and also more advanced languages like C/C++.</p>
+                                    <h1 class="display-2 text-white animated slideInDown mb-4">Health</h1>
+                                    <p class="fs-5 fw-medium text-white mb-4 pb-2">We offer short courses in Health (psychosocial counseling, Health care assistance, Nursing assistant etc).</p>
                                     <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5 me-3 animated slideInLeft">Learn More</a>
                                     <a href="" class="btn btn-dark rounded-pill py-sm-3 px-sm-5 animated slideInRight">Our Classes</a>
                                 </div>
