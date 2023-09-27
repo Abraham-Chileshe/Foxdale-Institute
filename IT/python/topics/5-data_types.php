@@ -49,12 +49,3 @@ print(type(w))
                    
     </div>
 </section>
-
-
-
-
-
-
-
-
-
