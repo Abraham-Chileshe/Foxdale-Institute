@@ -44,7 +44,7 @@ print(type(w))
         </div>
 
         <div class="col-lg-5 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-        <iframe src="https://trinket.io/embed/python/f87a1bb54c" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+            <iframe src="https://trinket.io/embed/python/f87a1bb54c" width="100%" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
         </div>
                    
     </div>
